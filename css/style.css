@@ -70,7 +70,7 @@ h2 code {
 #profile_picture  {
     /* width: 20%; */
     height: auto;
-    margin-top: 1%;
+    margin-top: 2%;
 }
 
 .about #full_name {
@@ -79,10 +79,12 @@ h2 code {
 
 .about .affiliations #title {
     padding-right: .5%;
+    min-width: 1px;
 }
 
 .about .affiliations #name {
     padding-right: .5%;
+    min-width: 1px;
 }   
 
 .about #email {
