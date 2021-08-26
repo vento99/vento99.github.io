@@ -70,6 +70,7 @@ h2 code {
 #profile_picture  {
     width: 20%;
     min-width: 300px;
+    max-height: 30%;
     height: auto;
     margin-top: 2%;
 }
